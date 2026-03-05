@@ -4,7 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>accenture_mvc_application</RootNamespace>
+    <RootNamespace>TSSSreAgent_HelloWorld_application</RootNamespace>
   </PropertyGroup>
 
 </Project>
+
