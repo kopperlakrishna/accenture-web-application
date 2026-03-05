@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using accenture_mvc_application.Models;
 
-namespace accenture_mvc_application.Controllers;
+namespace TSSSreAgent_HelloWorld_application.Controllers;
 
 public class HomeController : Controller
 {
@@ -29,3 +29,4 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
+
